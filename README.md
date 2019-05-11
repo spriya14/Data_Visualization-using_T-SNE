@@ -7,15 +7,15 @@ The code downloads the data, cleans it , creates feature vector and then uses T-
 
 
 
-Required Libraries :
+**Required Libraries** :
         numpy
         pandas
         sklearn
         matplotlib
         
-*Dataset Link* - https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+**Dataset Link** - https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
 
-_How To Run?_
+_***How To Run?***_
         Just Type the following command in your Terminal:
                 
                 >git clone https://github.com/spriya14/Data_Visualization-101.git
