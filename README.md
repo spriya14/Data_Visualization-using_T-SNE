@@ -1,4 +1,4 @@
-# Data_Visualization-101
+# Data_Visualization using T-SNE
 Visualization of data using t-distributed stochastic neighbor embedding plots to a huge dataset.
 
 **Overview Of Data**:
