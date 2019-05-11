@@ -7,11 +7,13 @@ The code downloads the data, cleans it , creates feature vector and then uses T-
 
 
 
-**Required Libraries** :
-        numpy
-        pandas
-        sklearn
-        matplotlib
+##Dependencies
+
+pandas(http://pandas.pydata.org/)
+numpy (http://www.numpy.org/)
+scikit-learn (http://scikit-learn.org/)
+matplotlib (http://matplotlib.org/)
+Install dependencies via 'pip install'. (i.e pip install pandas).
         
 **Dataset Link** - https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
 
