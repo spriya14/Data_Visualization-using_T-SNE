@@ -8,6 +8,14 @@ Required Libraries :
         sklearn
         matplotlib
         
-Dataset Link - https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+*Dataset Link* - https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+
+_How To Run?_
+        Just Type the following command in your Terminal:
+                >git clone https://github.com/spriya14/Data_Visualization-101.git
+                >cd Data_Visualization-101
+                >python dataset_visualization_101.py
+                
+
 
 
