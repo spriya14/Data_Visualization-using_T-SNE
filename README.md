@@ -6,7 +6,7 @@ The human activities dataset contains 5 classes (sitting-down, standing-up, stan
 The code downloads the data, cleans it , creates feature vector and then uses T-SNE to reduce dimensionality of the feature vector to just 2, and matplotlib was then used to visualize the data.
 
 
-##Dependencies
+**Dependencies** :
 
 * pandas(http://pandas.pydata.org/) 
 * numpy (http://www.numpy.org/) 
